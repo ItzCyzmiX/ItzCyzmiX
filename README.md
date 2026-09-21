@@ -10,7 +10,7 @@
     "luma": "python 2d game framework",
     "therl": "English-like programming language",
     "talky": "Discord AI Chatbot",
-    "R-ated": "A simple remote acess trojan"
+    "R-ated": "A simple remote access trojan"
   }
 }
 ```
